@@ -1,0 +1,53 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-image: url('D:/RideEasy/frontend/src/assets/7.jpg'); */
+     /* Use the imported image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
+  .login-form {
+    width: 300px;
+    height: 500px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and transparency */
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .btn-login {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .btn-login:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .error {
+    color: #ff0000;
+    margin-top: 10px;
+  }
+  
