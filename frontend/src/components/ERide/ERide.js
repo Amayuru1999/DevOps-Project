@@ -20,7 +20,7 @@ const ERide = () => {
         <h2>Who Can Benefit from E Rides?</h2>
         <p>
           Our electric ride service is designed to serve a variety of
-          eco-conscious customers, including:
+          eco-conscious customers, including:Riding
         </p>
         <ol>
           <li>
