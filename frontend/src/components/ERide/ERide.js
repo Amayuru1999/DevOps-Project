@@ -17,7 +17,7 @@ const ERide = () => {
         efficient travel experience while reducing our environmental impact.
       </p>
       <section className="customers">
-        <h2>Who Can Benefit from E Ride?</h2>
+        <h2>Who Can Benefit from E Rides?</h2>
         <p>
           Our electric ride service is designed to serve a variety of
           eco-conscious customers, including:
